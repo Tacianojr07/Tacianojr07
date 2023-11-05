@@ -19,3 +19,4 @@ Cursando análise e desenvolvimento de sistemas
 [![](https://visitcount.itsvg.in/api?id=Tacianojr07&icon=0&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://github.com/Tacianojr07/Tacianojr07/blob/output/github-contribution-grid-snake.svg)
