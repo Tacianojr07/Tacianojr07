@@ -1,5 +1,7 @@
 # 💫 About Me:
-Cursando análise e desenvolvimento de sistemas
+hey what's up?
+
+My name is Taciano and I'm a full stack developer.
 
 
 ## 🌐 Socials:
